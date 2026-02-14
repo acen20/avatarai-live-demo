@@ -18,7 +18,7 @@ Demos for each character are shown below.
 
 <div style="text-align: center;">
 <p>Osama – Physician</p>
-<video controls autoplay loop src="assets/osama.mp4" muted="false" width="300"></video>
+<video controls autoplay loop src="https://github.com/user-attachments/assets/524f107f-2829-4515-9104-220157705aa6" muted="false" width="300"></video>
 </div>
 
 <div style="text-align: center;">
