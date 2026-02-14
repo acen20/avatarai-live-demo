@@ -23,11 +23,17 @@ Demos for each character are shown below.
 " muted="false" width="300"></video>
 </div>
 
+<hr/>
+
+
 <div style="text-align: center;">
 <code>User: How are fossils converted to fuel?</code>
 <code>Salma: </code>
 <video controls autoplay loop src="https://github.com/user-attachments/assets/bd94492f-fd3e-4379-a1b3-7d6641ce78e9" muted="false" width="300"></video>
 </div>
+
+<hr/>
+
 
 <div style="text-align: center;">
 <code>User: What is the meaning of life?</code>
