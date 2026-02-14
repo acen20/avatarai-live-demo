@@ -17,18 +17,22 @@ Demos for each character are shown below.
 <div style="display: flex; gap: 20px; justify-content: space-around;">
 
 <div style="text-align: center;">
-<p>Osama – Physician</p>
+<p>User: I have pain in my knee. What kind of doctor shall i see?</p>
+<p>Osama: </p>
+<video controls autoplay loop src="https://github.com/user-attachments/assets/39c8a0d1-dafa-4111-a104-a1edeebf68a8
+" muted="false" width="300"></video>
+</div>
+
+<div style="text-align: center;">
+<p>User: How are fossils converted to fuel?</p>
+<p>Salma: </p>
+<video controls autoplay loop src="https://github.com/user-attachments/assets/bd94492f-fd3e-4379-a1b3-7d6641ce78e9" muted="false" width="300"></video>
+</div>
+
+<div style="text-align: center;">
+<p>User: What is the meaning of life?</p>
+<p>Emirati: </p>
 <video controls autoplay loop src="https://github.com/user-attachments/assets/524f107f-2829-4515-9104-220157705aa6" muted="false" width="300"></video>
-</div>
-
-<div style="text-align: center;">
-<p>Salma – Science Teacher</p>
-<video controls autoplay loop src="assets/salma.mp4" muted="false" width="300"></video>
-</div>
-
-<div style="text-align: center;">
-<p>Emirati – Historian/Philosopher</p>
-<video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/82c0f0b0-9c7c-4aad-bf0e-27e6098ffbe1" muted="false" width="300"></video>
 </div>
 
 </div>
