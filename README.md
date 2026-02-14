@@ -17,21 +17,21 @@ Demos for each character are shown below.
 <div style="display: flex; gap: 20px; justify-content: space-around;">
 
 <div style="text-align: center;">
-<p><b>User: I have pain in my knee. What kind of doctor shall i see?</b></p>
-<p>Osama: </p>
+<code>User: I have pain in my knee. What kind of doctor shall i see?</code>
+<code>Osama: </code>
 <video controls autoplay loop src="https://github.com/user-attachments/assets/39c8a0d1-dafa-4111-a104-a1edeebf68a8
 " muted="false" width="300"></video>
 </div>
 
 <div style="text-align: center;">
-<p><b>User: How are fossils converted to fuel?</b></p>
-<p>Salma: </p>
+<code>User: How are fossils converted to fuel?</code>
+<code>Salma: </code>
 <video controls autoplay loop src="https://github.com/user-attachments/assets/bd94492f-fd3e-4379-a1b3-7d6641ce78e9" muted="false" width="300"></video>
 </div>
 
 <div style="text-align: center;">
-<p><b>User: What is the meaning of life?</b></p>
-<p>Emirati: </p>
+<code>User: What is the meaning of life?</code>
+<code>Emirati: </code>
 <video controls autoplay loop src="https://github.com/user-attachments/assets/524f107f-2829-4515-9104-220157705aa6" muted="false" width="300"></video>
 </div>
 
