@@ -28,7 +28,7 @@ Demos for each character are shown below.
 
 <div style="text-align: center;">
 <p>Emirati – Historian/Philosopher</p>
-<video controls autoplay loop src="https://github.com/acen20/avatarai-live-demo/raw/refs/heads/main/assets/emirati.mp4" muted="false" width="300"></video>
+<video controls autoplay loop src="https://github.com/Zejun-Yang/AniPortrait/assets/21038147/82c0f0b0-9c7c-4aad-bf0e-27e6098ffbe1" muted="false" width="300"></video>
 </div>
 
 </div>
